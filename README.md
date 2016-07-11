@@ -1,4 +1,4 @@
-## PHP: Arquivos
+## PHP: Programação Orientada a Objetos
 
 **Desenvolvimento de Aplicações Web - COLTEC/MG**
 
